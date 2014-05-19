@@ -188,6 +188,6 @@ if __name__ == '__main__':
     elif sys.argv[1] == "cv":
         train(dp,"cv")
     else:
-        print "error:=-=> no such option"
+        print "error:==> no such option"
 
     
